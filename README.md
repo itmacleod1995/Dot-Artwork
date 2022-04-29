@@ -7,6 +7,6 @@ are a few examples.
 
 <img width="948" alt="Screen Shot 2022-04-29 at 8 09 57 AM" src="https://user-images.githubusercontent.com/54502182/165941658-302a0de5-3fe7-416b-8052-bf759bf3c82b.png">
 
-Using the colorgram and turtle packages in python, I recreated a program that produces my very own Hirst dot painting.<img width="897" alt="Screen Shot 2022-04-29 at 8 11 45 AM" src="https://user-images.githubusercontent.com/54502182/165941917-9ea87372-5e88-460c-a7ef-b9d0db64c5a4.png">
+Using the colorgram and turtle packages in python, I recreated a program that produces my very own Hirst dot painting.
+<img width="897" alt="Screen Shot 2022-04-29 at 8 11 45 AM" src="https://user-images.githubusercontent.com/54502182/165941917-9ea87372-5e88-460c-a7ef-b9d0db64c5a4.png">
 
-<img width="893" alt="Screen Shot 2022-04-29 at 8 12 06 AM" src="https://user-images.githubusercontent.com/54502182/165941958-a7808f9c-1eb7-4cf4-91c6-207ffb0d290b.png">
